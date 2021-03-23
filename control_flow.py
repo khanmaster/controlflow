@@ -15,7 +15,7 @@ elif age < 15:
 # else block gets executed if non of the above conditions met
 else:
     print("OPPs something went wrong, please try later")
-
+#
 # Exercise -
 # As a user I would like to sell tickets according the age of the user
 # and category of the movie -
@@ -23,6 +23,6 @@ else:
 # user input to let us know the age to decide whether to sell the ticket or not
 # casting implemented
 # display the age back to the user with appropriate message
-
-
+#
+#
 # Ensure your git hub REAMDE documentation for today's lessons are up to date
